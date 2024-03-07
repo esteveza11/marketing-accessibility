@@ -1,10 +1,13 @@
+### Code Refactor: Marketing Accessibility 
+# For this challenge, the task at hand was to refactor the codebase for Horiseon, a fictional marketing agency's, website. 
+
 ## User Story
 
-AS A marketing agency
+As a marketing agency
 
 I WANT a codebase that follows accessibility standards
 
-SO THAT our own site is optimized for search engines
+SO that our own site is optimized for search engines
 
 
 
