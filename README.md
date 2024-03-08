@@ -33,4 +33,9 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 
-THEN I find a concise, descriptive title
+THEN I find a concise, descriptive title!
+
+[18E69555-C29E-417E-9F91-20E4FD272E93_1_201_a](https://github.com/esteveza11/marketing-accessibility/assets/155405776/afeb7d76-548f-4b52-8b78-c44675b4ee08)
+
+
+
